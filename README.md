@@ -1,5 +1,5 @@
 This is a collection of scripts for the [Eggdrop](https://eggheads.org) IRC
-bot. Most of them others written, but some are edited versions of those
+bot. Most of them others wrote, but some are edited versions of those
 written by others and improvements made that I wanted.
 
 
