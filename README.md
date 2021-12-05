@@ -1,6 +1,6 @@
 This is a collection of scripts for the [Eggdrop](https://eggheads.org) IRC
 bot. Most of them others wrote, but some are edited versions of those
-written by others and improvements made that I wanted.
+written by others and improvements made that I wanted.  You may find eventually a few of mine here, or ones that I have heavily edited and made my own.
 
 
 # Scripts
